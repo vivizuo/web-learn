@@ -1,0 +1,6 @@
+server:
+  context-path: /vivi
+  port: 8080
+spring:
+  thymeleaf:
+    cache: false
