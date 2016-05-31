@@ -1,4 +1,4 @@
-package com.vivi.controller;
+package com.github.vivizuo.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;

@@ -1,4 +1,4 @@
-package com.vivi;
+package com.github.vivizuo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
